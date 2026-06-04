@@ -1,5 +1,13 @@
 # @infinitered/react-native-mlkit-face-detection
 
+## 5.0.1
+
+### Patch Changes
+
+- 6f0d469: Move the `rejectPromiseWithMessage` Swift helper into RNMLKit core so it can be shared across modules instead of being duplicated in each one.
+- Updated dependencies [6f0d469]
+  - @infinitered/react-native-mlkit-core@5.1.0
+
 ## 5.0.0
 
 ### Major Changes
